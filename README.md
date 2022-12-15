@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/55543713/207787356-d4150299-1d8d-49a0-9f71-20676478baba.png)
 
-![image](https://user-images.githubusercontent.com/55543713/207787397-239adbe7-9417-43ca-a30f-3a34f9a8edae.png)
+![image](https://user-images.githubusercontent.com/55543713/207787593-4f61e823-fd7c-4392-b783-c273cccd32bb.png)
 
 
 소감: 처음 노드가 떨어지는 것을 구상하는데 생각보다 오랜 시간이 걸려고, 노드가 떨어질 때 버튼을 눌러 맞는 버튼인지를 판단하는 것에 또 막혀 노드가 떨어지는 것부터 다시 구성하였다. 교수님의 도움을 받을 수도 있었지만 이번만큼이라도 나 혼자의 힘으로 이 게임을 만들어 보고 싶었다. 리듬 게임은 예전부터 내가 만들고 싶어 하였던 게임이기 때문이다.
